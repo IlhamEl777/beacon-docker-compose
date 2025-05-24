@@ -11,7 +11,7 @@ First, clone this repository from GitHub:
 ```bash
 git clone https://github.com/IlhamEl777/beacon-docker-compose.git
 cd beacon-docker-compose
-
+```
 
 ## Install
 Pulls the image associated with the service defined in the compose.yaml file:
